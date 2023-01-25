@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru-RU">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>gulp-pug-starter</title>
+  <meta name="theme-color" content="#fff" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <!-- inject:head:html -->
+  <!-- endinject -->
+  <link rel="shortcut icon" href="./img/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="./styles/main.css" />
+</head>
+
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <div class="container">
+        <div class="header__wrap">
+          <div class="header__logo logo">
+            <img src="./img/content/logo.svg" alt="Neurotrade" />
+          </div>
+          <div class="sandwich">
+            <div class="sandwich__line sandwich__line--top"></div>
+            <div class="sandwich__line sandwich__line--middle"></div>
+            <div class="sandwich__line sandwich__line--bottom"></div>
+          </div>
+          <div class="menu-glavnoe-container">
+            <ul class="menu" id="menu-glavnoe">
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72" id="menu-item-72">
+                <a href="#scrollto-summary">О нас</a>
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73" id="menu-item-73">
+                <a href="#scrollto-quotes">Эксперты</a>
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74" id="menu-item-74">
+                <a href="#scrollto-team">Команда</a>
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75" id="menu-item-75">
+                <a href="#scrollto-vacancy">Вакансии</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="main">
+      <section class="section section--intro">
+        <div class="intro" style="background-image: url('./img/content/intro-bg.jpg')">
+          <h1 class="intro__title">NEUROTRADE</h1>
+          <p class="intro__subtitle">НЕЙРОСЕТЕВОЙ ТРЕЙДИНГ</p>
+        </div>
+      </section>
+      <section class="section section--summary" id="scrollto-summary">
+        <div class="container">
+          <div class="container-modal">
+            <div class="summary">
+              <p class="summary__title">
+                Наша R&amp;D лаборатория разрабатывает алгоритм предиктивной
+                аналитики работы фондовой биржи с&nbsp;использованием
+                нейронных сетей.
+              </p>
+              <p class="summary__descr">
+                <a class="summary__descr-link" href="#">Ищем в&nbsp;команду людей
+                </a>
+                готовых вместе с&nbsp;нами решать сложные, интересные задачи
+                по&nbsp;машинному обучению.
+              </p>
+              <a class="summary__btn btn btn--bg-blue" href="#">ПРИСЛАТЬ РЕЗЮМЕ</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section section--quotes" id="scrollto-quotes">
+        <div class="container">
+          <div class="quotes owl-carousel" id="quotes-slider">
+            <div class="quotes__slide quotes-slide">
+              <p class="quotes-slide__title">
+                Искусственная нейронная сеть позволяет моделировать некую
+                нелинейную функцию с входными и выходными данными 1.
+              </p>
+              <div class="quotes-slide__img-wrap">
+                <img class="quotes-slide__img" src="./img/content/qoutes-img-1.png" alt="Didier Queloz" />
+              </div>
+              <div class="quotes-slide__name">Didier Queloz</div>
+              <div class="quotes-slide__merit">
+                Профессор, Нобелевский лауреат по физике Alice LTD
+              </div>
+            </div>
+            <div class="quotes__slide quotes-slide">
+              <p class="quotes-slide__title">
+                Искусственная нейронная сеть позволяет моделировать некую
+                нелинейную функцию с входными и выходными данными 2.
+              </p>
+              <div class="quotes-slide__img-wrap">
+                <img class="quotes-slide__img" src="./img/content/qoutes-img-1.png" alt="Didier Queloz" />
+              </div>
+              <div class="quotes-slide__name">Didier Queloz</div>
+              <div class="quotes-slide__merit">
+                Профессор, Нобелевский лауреат по физике Alice LTD
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section section--team" id="scrollto-team">
+        <div class="container">
+          <div class="container-modal">
+            <div class="team">
+              <h1 class="team__title">Команда</h1>
+              <div class="team-members">
+                <div class="team-member">
+                  <div class="team-member__group">
+                    <div class="team-member__img-wrap">
+                      <img class="team-member__img" src="./img/content/team-member1.png" alt="Олег Братишко" />
+                    </div>
+                    <div class="team-member__img-descr">
+                      <p class="team-member__name">Олег Братишко</p>
+                      <p class="team-member__position">Co-Founder</p>
+                    </div>
+                  </div>
+                  <p class="team-member__text-short">
+                    В 2013 вместе с партнерами создал фонд Typhoon. Фонд
+                    создал такие проекты как NtechLab и Brain4Net.
+                  </p>
+                </div>
+                <div class="team-member">
+                  <div class="team-member__group">
+                    <div class="team-member__img-wrap">
+                      <img class="team-member__img" src="./img/content/team-member2.png" alt="Олег Братишко" />
+                    </div>
+                    <div class="team-member__img-descr">
+                      <p class="team-member__name">АРТЁМ ВАСЕНИН</p>
+                      <p class="team-member__position">Co-Founder, CTO</p>
+                    </div>
+                  </div>
+                  <p class="team-member__text">
+                    Окончил Кембриджский университет, с 2017 по 2019 работал в
+                    NtechLab, разробатывая алгоритмы компьютерного зрения. За
+                    время работы занял призовые места в трёх международных
+                    соревнованиях.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section section--vacancy" style="background-image: url('./img/content/layer-bg-vacancy.png')"
+        id="scrollto-vacancy">
+        <div class="container">
+          <div class="vacancy-content">
+            <h1 class="vacancy-content__title">Вакансия</h1>
+            <div class="vacancy-content__slider owl-carousel" id="vacancy-slider">
+              <div class="vacancy-content__slide">
+                <h1 class="vacancy-content__slide-title">
+                  Senior machine learning engineer 1
+                </h1>
+                <div class="vacancy-content__slide-descr">
+                  <p class="vacancy-content__slide-text">
+                    Мы ищем опытных специалистов по машинному обучению которые
+                    будут готовы создавать новые системы анализа фондового
+                    рынка.
+                  </p>
+                </div>
+              </div>
+              <div class="vacancy-content__slide">
+                <h1 class="vacancy-content__slide-title">
+                  Senior machine learning engineer 2
+                </h1>
+                <div class="vacancy-content__slide-descr">
+                  <p class="vacancy-content__slide-text">
+                    Мы ищем опытных специалистов по машинному обучению которые
+                    будут готовы создавать новые системы анализа фондового
+                    рынка.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="vacancy-content__application">
+              <div class="vacancy-content__application-display">
+                <p class="vacancy-content__application-text">
+                  Для подачи заявки заполните форму<img class="vacancy-content__application-arrow"
+                    src="./img/content/form-arrow.png" alt="form-arrow" />
+                </p>
+              </div>
+              <div class="vacancy-content__form form form--show">
+                <form action="#">
+                  <div class="form__group">
+                    <input class="vacancy-content__field form__field" type="name" placeholder="Имя" />
+                  </div>
+                  <div class="form__group">
+                    <input class="vacancy-content__field form__field" type="surname" placeholder="Фамилия" />
+                  </div>
+                  <div class="form__group">
+                    <input class="vacancy-content__field form__field" type="email" placeholder="Email" />
+                  </div>
+                  <div class="form__group">
+                    <input class="vacancy-content__field form__field" type="phone" placeholder="Телефон" />
+                  </div>
+                  <div class="form__group">
+                    <input class="vacancy-content__field form__field" type="profile" placeholder="Профиль в Интернет" />
+                  </div>
+                  <div class="form__group">
+                    <div class="form__file-btn">
+                      <input class="form__field-file" type="file" id="file-input" name="file" multiple /><span
+                        class="form__file-choose">
+                        <label class="form__btn-label" for="file-input">Выберите файл</label><img
+                          class="form__file-remove" src="./img/content/file-delete.png" alt="Удалить" /><span
+                          class="form__file-name" id="file-name"></span></span>
+                    </div>
+                  </div>
+                  <div class="form__group">
+                    <input class="form__btn" type="submit" value="Отправить" />
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <p class="footer-content__text">Москва, Лесная, 43</p>
+          <img class="footer-content__img" src="./img/content/footer-logo.png" alt="footer-logo" />
+          <p class="footer-content__text-copyright">©2020 by NeuroTrade</p>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <script src="./js/vendor.js"></script>
+  <script src="./js/main.js"></script>
+</body>
+
+</html>
