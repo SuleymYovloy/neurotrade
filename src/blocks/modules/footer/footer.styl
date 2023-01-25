@@ -1,0 +1,43 @@
+.footer
+	position absolute
+	bottom 0
+	left 0
+	width 100%
+
+.footer-content
+	display block
+	padding 0 0 4.5em
+	justify-content space-between
+
+	+sm-block()
+		display flex
+
+	&__text
+		font-size 0.68rem
+		line-height 0.8em
+		letter-spacing 0.2em
+		text-transform uppercase
+		text-align center	
+		padding-bottom 6em
+
+		+sm-block()
+			display flex
+			align-items flex-end
+			padding-bottom 0
+
+	&__text-copyright
+		font-size 0.68rem
+		line-height 0.8em
+		letter-spacing 0.2em
+		text-transform uppercase
+		text-align center	
+		padding-top 6em		
+
+		+sm-block()
+			display flex
+			align-items flex-end
+			padding-top 0
+
+	&__img	
+		display block
+		margin auto		

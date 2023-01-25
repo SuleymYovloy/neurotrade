@@ -1,0 +1,42 @@
+*,
+*::after,
+*::before
+    box-sizing border-box
+
+body
+    -moz-osx-font-smoothing grayscale
+    -webkit-font-smoothing antialiased
+    color #fff
+    font-family $main-font-family, Arial, sans-serif
+    background-color #0e275a
+    background-image: url('./img/content/layer-bg-vacancy.png')
+
+h1, h2, h3, h4, h5, h6, ul
+    margin 0
+    padding 0
+
+ul
+    list-style-type none
+
+p
+    margin 0
+
+a
+    color #fff
+
+.wrapper
+    position relative
+
+.container
+    container()
+    sm(max-width, rem(540))
+    md(max-width, rem(720))
+    lg(max-width, rem(960))
+    +xl-block()
+        max-width rem(1024 + 128)
+        padding 0 4rem
+    +xxl-block()
+        max-width rem(1200 + 128)
+
+.section
+    overflow hidden

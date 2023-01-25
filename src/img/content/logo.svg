@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120.67 34.66" width="183" height="52">
+  <defs>
+    <clipPath id="a">
+      <rect y="1.07" width="120.67" height="33.6" style="fill: none"/>
+    </clipPath>
+    <clipPath id="c">
+      <rect x="12.49" y="15.45" width="16.76" height="14.39" style="fill: none"/>
+    </clipPath>
+    <clipPath id="d">
+      <path d="M29.26,15.46c-.13.24-.25.49-.37.75l-4.6,10.44c-1.88,4.26-4.95,4.26-6.83,0l-4.6-10.44c-.12-.26-.24-.51-.37-.76" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="e" data-name="Безымянный градиент 4" y1="34.7" x2="1" y2="34.7" gradientTransform="matrix(-16.76, 0, 0, 16.76, 29.26, -558.45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#90a7d6"/>
+      <stop offset="1" stop-color="#4b67ad"/>
+    </linearGradient>
+    <clipPath id="f">
+      <rect y="11.39" width="12.49" height="4.06" style="fill: none"/>
+    </clipPath>
+    <clipPath id="g">
+      <path d="M12.49,15.45c-1.93-3.67-5.08-4.9-7.77-3.49A17.43,17.43,0,0,0,0,15.45" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="h" x1="0" y1="34.63" x2="1" y2="34.63" gradientTransform="matrix(-12.49, 0, 0, 12.49, 12.49, -419.67)" xlink:href="#e"/>
+    <clipPath id="i">
+      <rect x="29.26" y="11.39" width="12.49" height="4.06" style="fill: none"/>
+    </clipPath>
+    <clipPath id="j">
+      <path d="M29.26,15.45c1.93-3.67,5.09-4.9,7.77-3.49a17.43,17.43,0,0,1,4.72,3.49" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="k" x1="0" y1="34.63" x2="1" y2="34.63" gradientTransform="translate(29.26 -419.67) scale(12.49)" xlink:href="#e"/>
+    <clipPath id="l">
+      <rect x="24.99" y="1.07" width="29.26" height="18.46" style="fill: none"/>
+    </clipPath>
+    <clipPath id="m">
+      <path d="M25,15.46c.13-.25.25-.5.36-.76L30,4.26c1.88-4.26,5-4.26,6.84,0l4.6,10.44C43.27,19,46.66,20.46,49.53,19a17.61,17.61,0,0,0,4.71-3.5" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="n" x1="0" y1="34.67" x2="1" y2="34.67" gradientTransform="matrix(29.26, 0, 0, -29.26, 24.99, 1024.47)" xlink:href="#e"/>
+    <clipPath id="o">
+      <rect x="12.49" y="15.45" width="12.49" height="4.06" style="fill: none"/>
+    </clipPath>
+    <clipPath id="p">
+      <path d="M25,15.45c-1.93,3.68-5.09,4.91-7.77,3.5a17.5,17.5,0,0,1-4.73-3.5" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="q" data-name="Безымянный градиент 5" y1="34.63" x2="1" y2="34.63" gradientTransform="translate(24.99 450.58) rotate(180) scale(12.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4b67ad"/>
+      <stop offset="1" stop-color="#90a7d6"/>
+    </linearGradient>
+  </defs>
+  <title>logo</title>
+  <g style="isolation: isolate">
+    <g style="clip-path: url(#a)">
+      <g style="clip-path: url(#a)">
+        <g style="opacity: 0.38000500202178955;mix-blend-mode: multiply">
+          <g style="clip-path: url(#c)">
+            <g style="clip-path: url(#d)">
+              <rect x="12.5" y="15.45" width="16.76" height="15.46" style="fill: url(#e)"/>
+            </g>
+          </g>
+        </g>
+        <g style="opacity: 0.38000500202178955;mix-blend-mode: multiply">
+          <g style="clip-path: url(#f)">
+            <g style="clip-path: url(#g)">
+              <rect y="10.55" width="12.49" height="4.9" style="fill: url(#h)"/>
+            </g>
+          </g>
+        </g>
+        <g style="opacity: 0.38000500202178955;mix-blend-mode: multiply">
+          <g style="clip-path: url(#i)">
+            <g style="clip-path: url(#j)">
+              <rect x="29.26" y="10.55" width="12.49" height="4.9" style="fill: url(#k)"/>
+            </g>
+          </g>
+        </g>
+        <g style="mix-blend-mode: multiply">
+          <g style="clip-path: url(#l)">
+            <g style="clip-path: url(#m)">
+              <rect x="24.99" width="29.26" height="20.46" style="fill: url(#n)"/>
+            </g>
+          </g>
+        </g>
+        <g style="mix-blend-mode: multiply">
+          <g style="clip-path: url(#o)">
+            <g style="clip-path: url(#p)">
+              <rect x="12.49" y="15.45" width="12.49" height="4.9" style="fill: url(#q)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <polygon points="37.36 24.23 37.36 31.35 37.39 32.31 37.1 31.44 34.1 24.23 33.12 24.23 33.12 34.58 34.13 34.58 34.13 27.44 34.09 26.52 34.38 27.34 37.39 34.58 38.36 34.58 38.36 24.23 37.36 24.23" style="fill: #fff"/>
+      <polygon points="43.15 24.23 43.15 34.58 47.52 34.58 47.52 33.62 44.22 33.62 44.22 29.83 46.94 29.83 46.94 28.87 44.22 28.87 44.22 25.19 47.49 25.19 47.49 24.23 43.15 24.23" style="fill: #fff"/>
+      <g style="clip-path: url(#a)">
+        <path d="M54.22,34.66c-1.6,0-2.48-.84-2.48-2.94V24.23H52.8v7.41c0,1.53.43,2,1.42,2s1.41-.52,1.41-2V24.23h1.06v7.49c0,2.09-.89,2.94-2.47,2.94" style="fill: #fff"/>
+        <path d="M65.5,34.58,63.71,30H62.56v4.61H61.5V24.23H64c1.66,0,2.41,1.05,2.41,2.68v.35a2.36,2.36,0,0,1-1.61,2.57l1.86,4.75ZM65.29,27c0-1.29-.45-1.85-1.48-1.85H62.56v3.87h1.25c1,0,1.48-.54,1.48-1.85Z" style="fill: #fff"/>
+        <path d="M73.14,34.66c-1.28,0-2.5-.61-2.5-3V27.14c0-2.38,1.22-3,2.5-3s2.49.61,2.49,3v4.53c0,2.38-1.22,3-2.49,3m1.43-7.4c0-1.86-.66-2.14-1.43-2.14s-1.42.28-1.42,2.14v4.28c0,1.86.65,2.15,1.42,2.15s1.43-.29,1.43-2.15Z" style="fill: #fff"/>
+        <polygon points="82.44 25.19 82.44 34.58 81.38 34.58 81.38 25.19 79.47 25.19 79.47 24.23 84.36 24.23 84.36 25.19 82.44 25.19" style="fill: #fff"/>
+        <path d="M92.47,34.58,90.68,30H89.54v4.61H88.48V24.23H91c1.65,0,2.41,1.05,2.41,2.68v.35a2.37,2.37,0,0,1-1.62,2.57l1.86,4.75ZM92.27,27c0-1.29-.45-1.85-1.48-1.85H89.54v3.87h1.25c.94,0,1.48-.54,1.48-1.85Z" style="fill: #fff"/>
+        <path d="M101.76,34.58l-.5-2.18H98.58l-.48,2.18h-1l2.4-10.35h.93l2.44,10.35Zm-1.67-7.35-.19-1-.19,1-.93,4.25h2.27s-1-4.25-1-4.25" style="fill: #fff"/>
+        <path d="M109.13,34.58h-2.27V24.23h2.25c1.57,0,2.68.79,2.68,3v4.4c0,1.83-.91,3-2.66,3m1.59-7.24c0-1.73-.71-2.15-1.72-2.15h-1.06v8.43H109c1.12,0,1.71-.74,1.71-2.14Z" style="fill: #fff"/>
+        <polygon points="116.29 34.58 116.29 24.23 120.64 24.23 120.64 25.19 117.37 25.19 117.37 28.87 120.08 28.87 120.08 29.83 117.37 29.83 117.37 33.62 120.67 33.62 120.67 34.58 116.29 34.58" style="fill: #fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
